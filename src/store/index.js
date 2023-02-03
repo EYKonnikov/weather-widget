@@ -75,7 +75,7 @@ export default createStore({
 
 		async fetchUserLocaiton() {
 			try {
-				let response = await axios.get(`https://ipinfo.io/json?token=${process.env.VUE_APP_IPINFO_TOKEN}`);
+				let response = await axios.get(`https://ipinfo.io/json?token=a627fc0cd15838`);
 				return response.data;
 			} catch (error) {
 				console.log(error);
