@@ -1,6 +1,6 @@
 # Weather Widget.
 
-[DEMO.](https://63dd432a8dd37f0db40df106--stunning-gelato-a21f3c.netlify.app/)
+[Demo.](https://63dd432a8dd37f0db40df106--stunning-gelato-a21f3c.netlify.app/)
 
 
 
@@ -8,13 +8,13 @@
 
 ## Setup (for users).
 
-Just <b>copy & paste</b> this code snippet into your project to use this widget, add to src attribute your build source!
+Just <b>copy & paste</b> this code snippet into your project to use this widget!
 
 ```
 <iframe
 	width="680"
-	height="460"
-	src="your-build-source"
+	height="1200"
+	src="https://63dd432a8dd37f0db40df106--stunning-gelato-a21f3c.netlify.app/"
 	title="Weather Widget"
 	frameborder="0"
 	allow="accelerometer; clipboard-write; picture-in-picture"
