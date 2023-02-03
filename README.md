@@ -48,13 +48,13 @@ Just <b>copy & paste</b> this code snippet into your project to use this widget!
 
 4. After clicking the ‘Gear’ button at the upper-right corner, switch the view to the following:
 
-Here, a user can:
+   Here, a user can:
 
-a. Remove previously added cities.
+      a. Remove previously added cities.
 
-b. Reorder the cities by dragging and dropping them within the list using ‘Hamburger’ icon to the left from the city name.
+      b. Reorder the cities by dragging and dropping them within the list using ‘Hamburger’ icon to the left from the city name.
 
-c. Add new locations.
+      c. Add new locations.
 
 5. Save the configuration in the local storage and restore it on future visits. A user can configure the widget just once and then have the same view until they change the computer or clean the storage.
 
