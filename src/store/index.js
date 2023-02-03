@@ -96,7 +96,7 @@ export default createStore({
 			try {
 				await axios
 					.get(
-						`https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&units=metric&appid=b5b13caffa6c281ea7be81f97fbab908`
+						`https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&units=metric&appid=${process.env.VUE_APP_OPEN_WEATHER_API_KEY}`
 					)
 					.then((response) => {
 						commit("ADD_WEATHER", response.data);
