@@ -2,9 +2,9 @@
 
 
 
-You can also use relative paths like
 
-![Alt text](src/assets/demopic.png?raw=true "Title")
+
+![Image](src/assets/demopic.png?raw=true "Title")
 
 ## Setup (for users).
 
