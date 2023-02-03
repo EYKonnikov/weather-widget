@@ -1,20 +1,16 @@
 # Weather Widget.
 
-Demo.
 
-> https:///vue-weather-widget/
-
-<br/>
 
 ## Setup (for users).
 
-Just <b>copy & paste</b> this code snippet into your project to use this widget!
+Just <b>copy & paste</b> this code snippet into your project to use this widget, add to src attribute your build source!
 
 ```
 <iframe
 	width="680"
 	height="460"
-	src="https:///vue-weather-widget/"
+	src="your-build-source"
 	title="Weather Widget"
 	frameborder="0"
 	allow="accelerometer; clipboard-write; picture-in-picture"
