@@ -2,6 +2,10 @@
 
 
 
+You can also use relative paths like
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
 ## Setup (for users).
 
 Just <b>copy & paste</b> this code snippet into your project to use this widget, add to src attribute your build source!
