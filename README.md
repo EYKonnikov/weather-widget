@@ -4,7 +4,7 @@
 
 You can also use relative paths like
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](src/assets/demopic.png?raw=true "Title")
 
 ## Setup (for users).
 
